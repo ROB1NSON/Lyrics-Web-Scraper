@@ -13,6 +13,7 @@ Collecting large lists via BeautifulSoup takes time so batches are written to fi
 Example Usage: lyricsByGenre.py, lyricsByArtist.py
 
 ### Resources:
+[My Google Doc Notes](https://docs.google.com/document/d/1t_rl6RX3gDJDjWde95zKfq8gICQojKssXN9buWS1sZk/edit?usp=sharing)
 General web scraping notes for Galvanize course: https://github.com/sagecodes/intro-web-scraping
 
 ## 2. AnalyzeLyrics.py - A script that loads lyrics saved from the above and prints a report.
